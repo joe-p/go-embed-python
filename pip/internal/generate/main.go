@@ -2,12 +2,13 @@ package main
 
 import (
 	"fmt"
-	"github.com/kluctl/go-embed-python/pip"
-	"github.com/kluctl/go-embed-python/python"
 	"io"
 	"net/http"
 	"os"
 	"path/filepath"
+
+	"github.com/joe-p/go-embed-python/pip"
+	"github.com/joe-p/go-embed-python/python"
 )
 
 func main() {
