@@ -1,5 +1,5 @@
 {
-  "contentHash": "3eb5f9322bc0e50e7e792bbc431f78260063dcb039561a9e8c1d9a190926a89c",
+  "contentHash": "17ee080c45881b269aa8047d96d2329bd3b3fc75bc4bcb39911906a688e8ced1",
   "files": [
     {
       "name": "bin",
@@ -17,7 +17,7 @@
       "perm": 493
     },
     {
-      "name": "bin/pip3.10",
+      "name": "bin/pip3.11",
       "size": 242,
       "perm": 493
     },
